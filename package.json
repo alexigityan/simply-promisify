@@ -1,0 +1,10 @@
+{
+  "name": "simply-promisify",
+  "version": "1.0.0",
+  "description": "Custom-made callback-to-promise wrapper",
+  "main": "main.js",
+  "scripts": {
+  },
+  "author": "Alex Igityan",
+  "license": "MIT"
+}
