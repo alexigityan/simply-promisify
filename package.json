@@ -1,6 +1,6 @@
 {
   "name": "simply-promisify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom-made callback-to-promise wrapper",
   "main": "main.js",
   "scripts": {
